@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(37,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(55,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(93,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\DynArray.h(87,2): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\DynArray.h(73): message :  while compiling class template member function 'void DynArray<int>::append(const Type &)'
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\DynArray.h(73): message :         with
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\DynArray.h(73): message :         [
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\DynArray.h(73): message :             Type=int
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\DynArray.h(73): message :         ]
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(53): message :  see reference to function template instantiation 'void DynArray<int>::append(const Type &)' being compiled
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(53): message :         with
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(53): message :         [
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(53): message :             Type=int
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(53): message :         ]
+  MemoryFunctions.cpp
+  Generating Code...
+C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Project1\main.cpp(38): message :  see reference to class template instantiation 'DynArray<int>' being compiled
+  Project1.vcxproj -> C:\Users\sebas\OneDrive\Desktop\Class Work\Code\Data Structures\Rodriguez_Sebastian_MemoryGame\Debug\Project1.exe
